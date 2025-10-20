@@ -31,8 +31,8 @@ Extras:
 
 ```bash
 # 1. Clone & enter repo
-git clone <your-repo>
-cd mini-file-server
+git clone https://github.com/malachi190/go-mini-file-server.git
+cd go-mini-file-server
 
 # 2. Install dependencies
 go mod tidy
